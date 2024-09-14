@@ -1,0 +1,112 @@
+body{
+    background-color: white;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.stars{
+    width: 140px;
+}
+
+.social{
+    background-color: hsl(256, 67%, 59%);
+    height: 200px;
+    width: 350px;
+    text-align: center;
+    padding-top: 10px;
+    color: white;
+    border-radius: 10px;
+    justify-content: center;
+    margin: auto;
+}
+
+.schedule{
+    height: 180px;
+}
+.posting{
+    color: black;
+    background-color: hsl(39, 100%, 71%);
+    height: fit-content;
+    width: 350px;
+    border-radius: 8px;
+    margin: auto;
+}
+.multi{
+    background-color: white;
+    color: black;
+    height: fit-content;
+    width: 350px;
+    border-radius: 10px;
+    justify-content: start;
+    align-items: flex-start;
+    margin: auto;
+    
+}
+.plat{
+    height: 60px;
+}
+
+.optimize{
+    width: 350px;
+    background-color: rgb(148, 148, 230);
+    justify-content: center;
+    margin: auto;
+    border-radius: 10px;
+    padding-top: 8px;
+}
+.active{
+    height: 200px;
+}
+
+.follower{
+    margin: auto;
+    width: 350px;
+    background-color:hsl(256, 67%, 59%);
+    color: white;
+    border-radius: 10px;
+}
+.grow{
+    height: 180px;
+}
+
+.faster{
+    text-align: start;
+    justify-content: left;
+    width: 350px;
+    color: black;
+    margin: auto;
+    background-color: white;
+}
+.mask{
+    height: 80px;
+}
+
+.create{
+    height: 110px;
+}
+.quick{
+    background-color: rgb(255, 183, 195);
+    margin: auto;
+    text-align: start;
+    justify-content: left;
+    width: 350px;
+    padding-left: 5px;
+    padding-top: 5px;
+    border-radius: 10px;
+}
+
+.write{
+    width: 350px;
+    background-color: rgb(224, 206, 101);
+    margin: auto;
+    text-align: start;
+    justify-content: left;
+    color: balck;
+    border-radius: 10px;
+    padding-top: 8px;
+    padding-left: 5px;
+}
+.ai{
+    height: 200px;
+    padding-left: 10px;
+}
